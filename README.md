@@ -1,4 +1,4 @@
 # JS Quiz
 
-### Start
+### S$tart
 Run with `npm run tsc` and `npm start`.
