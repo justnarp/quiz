@@ -16,7 +16,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         angular2_1.Component({
             selector: 'my-app',
-            template: '<h1>JS Quiz init</h1>'
+            template: '<h1>Quiz</h1>'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);
